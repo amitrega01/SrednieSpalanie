@@ -116,7 +116,7 @@ export default class App extends Component {
               }}>QuickApps by InsuDev</Text>
               <AdMobBanner
               adSize="banner"
-              adUnitID="ca-app-pub-2935918109676973/6314921016"
+              adUnitID="id"
            
               onAdFailedToLoad={error => console.error(error)}
               />
